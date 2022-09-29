@@ -1,4 +1,3 @@
-# Best Dogs Breeds to Have
 <p>Dogs are quadrapedal mammals and known as a man's best friend. Dogs are known to be incredibly loyal, friendly, and protective of their owners. They come in over 190 breeds that we all adore., but out of these 190, these are the top 3 best breeds.
 <hr>
 <h1>#1 Pembroke Welsh Corgi</h1>
